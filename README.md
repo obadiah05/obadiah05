@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obadiah05
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me obadiahgnanaraj@gmail.com
